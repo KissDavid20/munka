@@ -1,0 +1,49 @@
+#folap{
+    background-image:url(pics/1.jpg);
+    background-repeat:no-repeat;
+    background-size:contain;
+}
+
+#text
+{
+    font-family:'Times New Roman';
+    font-weight:bolder;
+}
+
+#keret
+{
+height:100vh;
+}
+#szoveg
+{
+text-align:justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*.main-body{
+ background-image: url(pics/1.jpg);
+ background-repeat:no-repeat;
+}
+.container{
+    position:absolute;
+}
+h1,a{
+    color:dimgray;
+}
+iframe{
+    height:400%;
+    width:100%;
+   background-image:none;
+}
+.right{
+    float:right;*/
+}
